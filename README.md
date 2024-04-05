@@ -1,6 +1,7 @@
 ### Hi there 👋
-🔭 I’m currently working on business analyst
-🌱 I’m currently learning PYTHON
+###🔭 I’m currently working on business analyst
+
+###🌱 I’m currently learning PYTHON
 <!--
 **hpadovani/hpadovani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
